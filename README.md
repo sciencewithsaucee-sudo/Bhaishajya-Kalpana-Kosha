@@ -1,45 +1,27 @@
 # 🥣 Bhaishajya Kalpana Kosha – Encyclopedia of Ayurvedic Formulations (Beta)
 
 **A searchable database of classical Ayurvedic medicines** for students and practitioners.
-
-[Explore Formulations](https://amidhaayurveda.com/p/formulations.html) | [View Dataset (GitHub)](https://github.com/sciencewithsaucee-sudo/bhaishajya-kalpana)
-
-> **Note:** Data derived from classical Ayurvedic texts. Always consult a qualified practitioner.
+This project aims to create a standardized, machine-readable dataset of Ayurvedic formulations, making this knowledge accessible for modern research, education, and clinical practice.
 
 ---
 
-## 📖 About the Formulation Data
+## 📖 Overview
 
-This encyclopedia (Kosha) compiles classical Ayurvedic textual data, meticulously referenced from authoritative sources like the *Ayurvedic Formulary of India (AFI)*, *Bhavaprakasha Nighantu*, *Sharngadhara Samhita*, and others.
+The **Bhaishajya Kalpana Kosha** contains detailed data on **176+** classical Ayurvedic formulations, derived from authoritative texts like *AFI*, *Bhavaprakasha*, and *Sharngadhara Samhita*. Data includes:
 
-🔗 Each dataset entry includes the following parameters where available:
+* **Formulation Name** and **Type** (e.g., Churna, Vati)
+* **Category / System** (e.g., Digestive, Rasayana)
+* **Main Ingredients** and Full Ingredient List
+* **Indications** (Therapeutic uses)
+* **Dosage** and **Anupana** (Adjuvant)
+* **Reference Text** citations
 
-* **Formulation Name**
-* **Type** (e.g., Churna, Vati, Ghrita)
-* **Category / System** (e.g., Digestive System, Rasayana)
-* **Main Ingredients**
-* **Full Ingredient List**
-* **Indications**
-* **Dosage**
-* **Anupana** (Adjuvant)
-* **Reference Text**
+This dataset is suitable for:
 
-**🧠 Purpose:** To create a standardized, machine-readable dataset of Ayurvedic formulations, making this knowledge more accessible for modern research, education, and clinical practice support.
-
-**Last Updated:** October 2025 (Beta Release)
-
----
-
-## 📊 Data Insights
-
-**Database Stats (as of Oct 2025)**
-
-| Metric | Count |
-| :--- | :--- |
-| **Total Formulations** | 176 |
-| **Reference Texts Cited** | 10+ |
-| **Formulation Types** | 8 |
-| **Language** | English (with Sanskrit terms) |
+* Ayurvedic students & practitioners
+* Research institutions analyzing classical formulas
+* Health-tech startups building clinical support tools
+* Educators creating open Ayurvedic curricula
 
 ---
 
@@ -64,16 +46,25 @@ This encyclopedia (Kosha) compiles classical Ayurvedic textual data, meticulousl
 
 ---
 
-## ⚙️ Open Data for Researchers
+## ⚙️ How to Use
 
-**Access the Raw Data**
-Access the complete dataset in JSON format via our GitHub Repository. The data is freely available for educational, academic, and non-commercial use.
+1. **Access the Raw Data** You can access the complete, raw JSON file directly from our GitHub repository.  
+   This is ideal for downloading the entire dataset for your own projects or for data analysis.
 
-**Raw JSON URL:**
-[https://raw.githubusercontent.com/sciencewithsaucee-sudo/bhaishajya-kalpana/main/data.json](https://raw.githubusercontent.com/sciencewithsaucee-sudo/bhaishajya-kalpana/main/data.json)
+   **Raw JSON URL:** [https://raw.githubusercontent.com/sciencewithsaucee-sudo/Bhaishajya-Kalpana-Kosha/refs/heads/main/Bhaishajya-Kalpana-Kosha.json](https://raw.githubusercontent.com/sciencewithsaucee-sudo/Bhaishajya-Kalpana-Kosha/refs/heads/main/Bhaishajya-Kalpana-Kosha.json)
 
-**Contributions**
-We welcome contributions, corrections, and additions from the research community.
+2. **Integrate with Projects** Use this data for web apps, AI models, educational tools, or research visualizations.  
+   Please provide attribution as mentioned below.
+
+---
+
+## 🧠 Research Purpose
+
+This project bridges **classical Ayurvedic texts** with **digital knowledge systems**, helping:
+
+* Students cite authentic formulation data
+* Researchers perform computational analysis on ingredients and indications
+* Developers build standardized Ayurvedic prescription tools
 
 ---
 
@@ -81,12 +72,37 @@ We welcome contributions, corrections, and additions from the research community
 
 This dataset is released under the **Creative Commons Attribution 4.0 International License (CC BY 4.0).**
 
-You are free to **share** and **adapt** the data for educational, research, and non-commercial purposes, provided appropriate credit is given.
+You are free to:
+
+* **Share** — copy and redistribute the material
+* **Adapt** — remix, transform, and build upon it
+
+Under the following terms:
+
+* Attribution must be given to **Amidha Ayurveda**
+* Non-commercial, educational, and research use is preferred
 
 **How to Cite:**
 
 > Bhaishajya Kalpana Kosha (Beta), 2025. Amidha Ayurveda.
-> Retrieved from [https://amidhaayurveda.com/p/formulations.html](https://amidhaayurveda.com/p/formulations.html)
+> Retrieved from [https://www.amidhaayurveda.com/p/bhaishajya-kalpana-kosha.html](https://www.amidhaayurveda.com/p/bhaishajya-kalpana-kosha.html)
+
+---
+
+## 🪟 Contributing
+
+We welcome contributions from students, developers, and researchers!
+You can:
+
+* Add new verified formulations
+* Improve ingredient lists or references
+* Enhance data accuracy
+
+### Steps:
+
+1. Fork the repository
+2. Edit or add your formulation entry in JSON format
+3. Submit a pull request
 
 ---
 
