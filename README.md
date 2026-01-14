@@ -1,4 +1,6 @@
-# 🥣 Bhaishajya Kalpana Kosha – Encyclopedia of Ayurvedic Formulations (Beta)
+# 🥣 Bhaishajya Kalpana Kosha – Encyclopedia of Ayurvedic Formulations
+
+[![DOI](https://zenodo.org/badge/1085713659.svg)](https://doi.org/10.5281/zenodo.18243950)
 
 **A searchable database of classical Ayurvedic medicines** for students and practitioners.
 This project aims to create a standardized, machine-readable dataset of Ayurvedic formulations, making this knowledge accessible for modern research, education, and clinical practice.
@@ -51,7 +53,7 @@ This dataset is suitable for:
 1. **Access the Raw Data** You can access the complete, raw JSON file directly from our GitHub repository.  
    This is ideal for downloading the entire dataset for your own projects or for data analysis.
 
-   **Raw JSON URL:** [https://raw.githubusercontent.com/sciencewithsaucee-sudo/Bhaishajya-Kalpana-Kosha/refs/heads/main/Bhaishajya-Kalpana-Kosha.json](https://raw.githubusercontent.com/sciencewithsaucee-sudo/Bhaishajya-Kalpana-Kosha/refs/heads/main/Bhaishajya-Kalpana-Kosha.json)
+   **Raw JSON URL:** [https://raw.githubusercontent.com/sciencewithsaucee-sudo/Bhaishajya-Kalpana-Kosha/main/Bhaishajya-Kalpana-Kosha.json](https://raw.githubusercontent.com/sciencewithsaucee-sudo/Bhaishajya-Kalpana-Kosha/main/Bhaishajya-Kalpana-Kosha.json)
 
 2. **Integrate with Projects** Use this data for web apps, AI models, educational tools, or research visualizations.  
    Please provide attribution as mentioned below.
@@ -84,9 +86,24 @@ Under the following terms:
 
 **How to Cite:**
 
-> Bhaishajya Kalpana Kosha (Beta), 2025. Amidha Ayurveda.
-> Retrieved from [https://www.amidhaayurveda.com/p/bhaishajya-kalpana-kosha.html](https://www.amidhaayurveda.com/p/bhaishajya-kalpana-kosha.html)
+If you use this database in your research, please cite the specific version you used via the DOI.
 
+> Varshney, S. (2025). *Bhaishajya Kalpana Kosha – Encyclopedia of Ayurvedic Formulations* (v1.0.0) [Data set]. Amidha Ayurveda. https://doi.org/10.5281/zenodo.18243950
+
+**BibTeX:**
+
+```bibtex
+@dataset{varshney_sparsh_2025_bhaishajya,
+  author       = {Varshney, Sparsh},
+  title        = {{Bhaishajya Kalpana Kosha – Encyclopedia of Ayurvedic Formulations}},
+  month        = oct,
+  year         = 2025,
+  publisher    = {Amidha Ayurveda},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.18243950},
+  url          = {[https://www.amidhaayurveda.com/p/bhaishajya-kalpana-kosha.html](https://www.amidhaayurveda.com/p/bhaishajya-kalpana-kosha.html)}
+}
+```
 ---
 
 ## 🪟 Contributing
@@ -103,6 +120,12 @@ You can:
 1. Fork the repository
 2. Edit or add your formulation entry in JSON format
 3. Submit a pull request
+
+---
+
+## 🔗 DOI (Digital Object Identifier)
+
+**DOI:** [10.5281/zenodo.18243950](https://doi.org/10.5281/zenodo.18243950)
 
 ---
 
