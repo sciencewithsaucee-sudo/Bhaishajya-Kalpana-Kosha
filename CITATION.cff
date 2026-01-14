@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Bhaishajya Kalpana Kosha – Encyclopedia of Ayurvedic Formulations (Beta)"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Varshney"
+    given-names: "Sparsh"
+    orcid: "https://orcid.org/0009-0004-7835-0673"
+    affiliation: "Amidha Ayurveda"
+version: 1.0.0-beta
+date-released: 2025-10-01
+license: CC-BY-4.0
+repository-code: "https://github.com/sciencewithsaucee-sudo/Bhaishajya-Kalpana-Kosha"
+url: "https://www.amidhaayurveda.com/p/bhaishajya-kalpana-kosha.html"
+abstract: >-
+  A searchable database of classical Ayurvedic medicines for students and practitioners.
+  This project aims to create a standardized, machine-readable dataset of Ayurvedic formulations
+  derived from authoritative texts like the Ayurvedic Formulary of India (AFI),
+  Bhavaprakasha Nighantu, and Sharngadhara Samhita.
+keywords:
+  - ayurveda
+  - formulations
+  - bhaishajya-kalpana
+  - dataset
+  - open-data
+  - indian-medicine
+  - churna
+  - vati
+  - asava
+contact:
+  - email: "sparsh@amidhaayurveda.com"
+    name: "Dr. Sparsh Varshney"
