@@ -26,7 +26,7 @@ This dataset is suitable for:
 * Educators creating open Ayurvedic curricula
 
 ---
-
+🔗 Live Tool: https://www.amidhaayurveda.com/p/bhaishajya-kalpana-kosha.html
 ## 🛉 Sample Data Preview (JSON)
 
 ```json
