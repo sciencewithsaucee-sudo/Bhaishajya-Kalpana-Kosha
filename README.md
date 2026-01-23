@@ -131,7 +131,7 @@ You can:
 
 ## 👨‍⚕️ About the Creator
 
-This open-source project was developed by **Dr. Sparsh Varshney** to contribute to the accessibility and understanding of Ayurvedic knowledge, complementing the Ayurvedic Herb Database.
+This open-source project was developed by **Sparsh Varshney** to contribute to the accessibility and understanding of Ayurvedic knowledge, complementing the Ayurvedic Herb Database.
 
 **Connect:**
 
